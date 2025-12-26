@@ -1,46 +1,54 @@
-<h1 align="center">Hey there 👋, I'm Dhruvit Garathiya</h1>
-
+<h1 align="center">Dhruvit Garathiya</h1>
 <p align="center">
-  <i>A passionate full-stack web developer | Final-year IT Student @ L.D. College of Engineering | Problem Solver</i>
+  <b>Programmer Analyst @ Argusoft</b> | Full-Stack Engineer
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhruvit-garathiya" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">
+  <a href=www.linkedin.com/in/dhruvit-garathiya-gec-ldce-it-dte" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/dhruvitgarathiya" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="mailto:dhruvitgarathiya@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/dhruvitgarathiya/">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=LeetCode" />
-  </a>
-  <a href="https://github.com/dhruvitgarathiya">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white" />
+  <a href="https://leetcode.com/dhruvitgarathiya/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🏛️ Professional Summary
 
-- 🎓 Final Year IT Student at **L.D. College of Engineering**
-- 💻 Full-Stack Developer (React + Node.js + MongoDB) | Golang enthusiast
-- 🧠 Solved **300+ DSA problems** on LeetCode
-- 🛠️ Built real-world apps including:
-  - 🛒 `GreenCart` – Full-stack e-commerce with JWT, role-based access
-  - 🏠 `neurozen` – mental health app
-  - 🚍`textrammer`- text manipulation web ap
-- 🧪 Interested in system design, scalable APIs, and microservices
-- 📚 Currently diving into **Docker + Kubernetes + DevOps**
+I am a **Programmer Analyst at Argusoft** with a deep interest in building scalable, enterprise-grade applications. With a solid foundation in **Data Structures and Algorithms** (300+ solved on LeetCode) and a passion for modern backend architectures, I focus on writing clean, maintainable, and efficient code.
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Technical Ecosystem
 
-```ts
-Languages:   C | C++ | JavaScript | Go | SQL
-Frontend:   HTML | CSS | React | Tailwind | Bootstrap | MUI
-Backend:    Node.js | Express.js | Go (Gin/Fiber) | RESTful APIs
-Databases:  MongoDB | MySQL | PostgreSQL | Redis
-Tools:      Git | GitHub | Docker | Postman | VS Code
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript, C++, SQL |
+| **Backend** | Node.js, Express.js, RESTful APIs |
+| **Frontend** | React, Tailwind CSS, Material UI, HTML5/CSS3 |
+| **Databases** | PostgreSQL, MongoDB, MySQL |
+| **DevOps & Tools** | Docker, Git, GitHub Actions, Postman, Linux |
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvitgarathiya&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Dhruvit's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvitgarathiya&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Simplicity is the soul of efficiency."</i>
+</p>
 
