@@ -38,16 +38,6 @@ I am a **Programmer Analyst at Argusoft** with a deep interest in building scala
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvitgarathiya&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Dhruvit's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvitgarathiya&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <i>"Simplicity is the soul of efficiency."</i>
 </p>
