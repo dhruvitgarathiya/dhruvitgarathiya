@@ -1,6 +1,6 @@
 <h1 align="center">Dhruvit Garathiya</h1>
 <p align="center">
-  <b>Programmer Analyst @ Argusoft</b> | Full-Stack Engineer
+ Full-Stack Engineer
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ### 🏛️ Professional Summary
 
-I am a **Programmer Analyst at Argusoft** with a deep interest in building scalable, enterprise-grade applications. With a solid foundation in **Data Structures and Algorithms** (300+ solved on LeetCode) and a passion for modern backend architectures, I focus on writing clean, maintainable, and efficient code.
+I have deep interest in building scalable, enterprise-grade applications. With a solid foundation in **Data Structures and Algorithms** (300+ solved on LeetCode) and a passion for modern backend architectures, I focus on writing clean, maintainable, and efficient code.
 
 ---
 
