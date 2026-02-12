@@ -1,6 +1,6 @@
 <h1 align="center">Dhruvit Garathiya</h1>
 <p align="center">
- Full-Stack Engineer
+ Software Engineer
 </p>
 
 <p align="center">
@@ -22,23 +22,13 @@
 
 ### 🏛️ Professional Summary
 
-I have deep interest in building scalable, enterprise-grade applications. With a solid foundation in **Data Structures and Algorithms** (300+ solved on LeetCode) and a passion for modern backend architectures, I focus on writing clean, maintainable, and efficient code.
-
----
+Learning to Write Code That Scales 
 
 ### 🛠️ Technical Ecosystem
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | TypeScript, JavaScript, C++, SQL |
-| **Backend** | Node.js, Express.js, RESTful APIs |
+| **Languages** | TypeScript, JavaScript, C++, SQL, Python |
+| **Backend** | Node.js, Express.js, FastAPI |
 | **Frontend** | React, Tailwind CSS, Material UI, HTML5/CSS3 |
 | **Databases** | PostgreSQL, MongoDB, MySQL |
-| **DevOps & Tools** | Docker, Git, GitHub Actions, Postman, Linux |
-
----
-
-<p align="center">
-  <i>"Simplicity is the soul of efficiency."</i>
-</p>
-
